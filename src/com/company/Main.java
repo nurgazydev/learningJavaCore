@@ -26,11 +26,6 @@ public class Main {
             }
         }
 
-//        if (!Objects.equals(sym, "+") && !Objects.equals(sym, "-") && !Objects.equals(sym, "*") && !Objects.equals(sym, "/")) {
-//            System.out.println("Нельзя вести такой символ" + " <<"+ sym+">> " + "\n");
-//            return;
-//        }
-
 
         int num2;
 
